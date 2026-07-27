@@ -1,0 +1,33 @@
+Full Stack Engineer Take-Home Assessment
+
+Objective
+Design and develop a full-stack web application that consumes publicly available data
+from data.gov.sg.
+
+High-Level Requirements
+The solution should:
+ Retrieve and integrate data from any dataset of your choice available on data.gov.sg.
+ Present the data through a clear and user-friendly interface.
+ Provide appropriate capabilities for users to explore and interact with the data.
+ Analyse the selected dataset and present meaningful summaries or insights derived from
+the data (Optional).
+ Demonstrate sound frontend and backend application design.
+ Provide Infrastructure as Code (IaC) that defines the AWS infrastructure required to
+deploy and operate the solution.
+ Include appropriate automated testing and supporting technical documentation.
+Candidates are free to select the technology stack, application architecture, AWS services, and
+implementation approach.
+Deployment to AWS is not required; however, the application must run successfully in a local
+environment.
+
+Assessment Criteria
+The assessment will focus on the overall quality of the solution, engineering practices, technical
+decision-making, and the candidate’s ability to explain and justify their design choices,
+assumptions, and trade-offs.
+
+Submission
+The completed assessment should be submitted within three calendar days from the date it is
+provided.
+The complete source code, Infrastructure as Code, automated tests, and README
+documentation should be maintained in a Git repository.
+Please provide access to the repository for review as part of your submission.
